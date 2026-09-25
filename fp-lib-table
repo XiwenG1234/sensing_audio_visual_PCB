@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "resistor_footprint") (type "KiCad") (uri "${KIPRJMOD}/resistor_footprint.pretty") (options "") (descr ""))
+	(lib (name "resistor_footprint") (type "KiCad") (uri "${KIPRJMOD}/resistor_footprint.pretty") (options "") (descr ""))
+)
